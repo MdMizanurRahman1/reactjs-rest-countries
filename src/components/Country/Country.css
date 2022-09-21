@@ -1,0 +1,8 @@
+.country {
+    color: burlywood;
+    background-color: whitesmoke;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
